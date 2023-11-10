@@ -1,2 +1,2 @@
-data/original/
-data/processed/
+./data/original/*
+./data/processed/*
