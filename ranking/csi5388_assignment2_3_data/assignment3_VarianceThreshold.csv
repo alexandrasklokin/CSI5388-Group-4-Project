@@ -1,0 +1,12 @@
+,feature,rank
+0,length_longest_word,1.0
+1,FQDN_count,1.0
+2,sld_vec,0.0
+3,private_192,1.0
+4,lower,1.0
+5,multicast,1.0
+6,entropy,1.0
+7,labels_max,1.0
+8,admin_multicast,0.0
+9,private_172,0.0
+10,Label,0.0
